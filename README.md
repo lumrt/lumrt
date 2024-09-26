@@ -10,7 +10,7 @@
 - Actually Learning ***Go-Lang***, ***C*** and ***Python*** 📈
 - You can reach me on my ***[E-Mail](mailto:lumaret@student.42.fr)*** 📩
   <br><br>
-  Every Project from 42 school are working on Linux/Debian/Fedora Distributions
+Every Project from 42 school are working on Linux/Debian/Fedora Distributions
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
