@@ -6,7 +6,7 @@
 </picture>
 
 # HI ! 👋🏼 
-- I'm interressed in ***AI integration/developpement for software*** 🧠
+- I'm interressed in ***AI & Blockchain integration for software*** 🧠
 - Actually Learning ***Go-Lang***, ***C*** and ***Python*** 📈
 - You can reach me on my ***[E-Mail](mailto:lumaret@student.42.fr)*** 📩
   <br><br>
