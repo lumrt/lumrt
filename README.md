@@ -12,7 +12,8 @@
   <br><br>
 Every Project from 42 school are working on Linux Debian & Fedora Distributions
 
-# Achievments
+# Achievments 🛠️
+- Completed 42 school Common Core
 - Backend Developper at emojimarket.xyz
 - Interessed in developpement of Trading Bots
 - Tool Addict
