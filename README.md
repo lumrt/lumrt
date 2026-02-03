@@ -6,8 +6,8 @@
 </picture>
 
 # HI ! 👋🏼 
-- I'm interressed in ***AI & Blockchain integration for software*** 🧠
-- Actually Learning ***Go-Lang***, ***C++*** and ***Python*** 📈
+- Built many projects as a Backend developper and DevOps 🧠
+- Actually Learning ***Go-Lang***, ***C++*** and ***Kubernetes*** 📈
 - You can reach me on my ***[E-Mail](mailto:lumaret@student.42.fr)*** 📩
   <br><br>
 Every Project from 42 school are working on Linux Debian & Fedora Distributions
@@ -15,7 +15,7 @@ Every Project from 42 school are working on Linux Debian & Fedora Distributions
 # Achievments 🛠️
 - Completed 42 school Common Core
 - Backend Developper at emojimarket.xyz
-- Interessed in developpement of Trading Bots
+- Interessed in Infrastructure developpement
 - Tool Addict
 <!---
 lu4200/lu4200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
